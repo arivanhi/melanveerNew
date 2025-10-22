@@ -1,0 +1,8 @@
+# Paket-paket ini diinstal menggunakan pip di dalam virtual environment
+adafruit-circuitpython-mcp3008
+
+# Paket-paket di bawah ini ada di daftar awal Anda,
+# tetapi tidak digunakan di skrip UI final.
+# Hapus tanda komentar jika Anda membutuhkannya.
+# flet
+# screen-brightness-control
