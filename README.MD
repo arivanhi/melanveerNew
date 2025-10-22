@@ -2,9 +2,6 @@
 
 Aplikasi desktop berbasis Python untuk deteksi vena secara *real-time* menggunakan Raspberry Pi CM4, kamera inframerah, dan antarmuka PyQt5.
 
-![Screenshot Aplikasi](TAMPILAN_APLIKASI.png)
-*(Catatan: Ganti `TAMPILAN_APLIKASI.png` dengan nama file screenshot Anda, seperti `{9C87245A-20DE-464B-8AA2-E65BBAA31B53}.png`)*
-
 ## Fitur
 
 * **Live Feed:** Menampilkan video *feed* langsung dari kamera.
