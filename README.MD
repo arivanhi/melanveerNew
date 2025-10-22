@@ -94,7 +94,7 @@ Pastikan semua file ikon dan logo berada di folder yang sama dengan skrip utama 
 ├── main.py                   # Skrip Python utama (vena_viewer_layout_v3.py)
 ├── requirements.txt          # Paket pip
 ├── README.md                 # File ini
-├── icon
+└── icon/
     ├── logo_splash.png           # Gambar untuk splash screen
     ├── logo_app.png              # Logo kecil di UI
     ├── brightness_icon.png       # Ikon slider brightness
